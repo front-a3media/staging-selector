@@ -96,11 +96,16 @@ function renderApp(callback) {
             }
 
             var xhr = new XMLHttpRequest();
-            xhr.open("GET", link + "bundle.js", true);
+
+            var url_bundle = new URL(link);
+            url_bundle.pathname =
+              url_bundle.pathname.replace(/\/$/, "") + "/bundle.js";
+
+            xhr.open("GET", url_bundle.href, true);
             xhr.onreadystatechange = function () {
               if (xhr.readyState === 4) {
                 if (xhr.status === 404) {
-                  window.location.href = link;
+                  window.location = link;
                 } else {
                   window.localStorage.setItem("wrapperUrl", link);
                   document.location.reload();
