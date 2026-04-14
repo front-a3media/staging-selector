@@ -94,8 +94,24 @@ function renderApp(callback) {
             if (link.charAt(link.length - 1) !== "/") {
               link = link + "/";
             }
-            window.localStorage.setItem("wrapperUrl", link);
-            document.location.reload();
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", link + "bundle.js", true);
+            xhr.onreadystatechange = function () {
+              if (xhr.readyState === 4) {
+                if (xhr.status === 404) {
+                  window.location.href = link;
+                } else {
+                  window.localStorage.setItem("wrapperUrl", link);
+                  document.location.reload();
+                }
+              }
+            };
+            xhr.onerror = function () {
+              window.localStorage.setItem("wrapperUrl", link);
+              document.location.reload();
+            };
+            xhr.send();
           }
         });
       }
