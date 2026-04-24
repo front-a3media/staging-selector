@@ -1,94 +1,54 @@
 [
   {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/test-a3pt-staging/",
-    "title": "test-a3pt-staging"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/desktop/",
+    "title": "pro:desktop"
   },
   {
-    "url": "https://google.com",
-    "title": "Google 19-mar-2026"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/foxxum/",
+    "title": "pro:foxxum"
   },
   {
-    "url": "https://pruebascomunes.staging.atresplayer.com",
-    "title": "pruebas comunes"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/hbbtv/",
+    "title": "pro:hbbtv"
   },
   {
-    "url": "https://joaquim.staging.atresplayer.com/",
-    "title": "joaquim.staging"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/hisense/",
+    "title": "pro:hisense"
   },
   {
-    "url": "https://lightning-tv.github.io/solid-demo-app/",
-    "title": "lsolid"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/kepler/",
+    "title": "pro:kepler"
   },
   {
-    "url": "https://blits-demo.lightningjs.io/#/demos/tmdb",
-    "title": "blits"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/movistar/",
+    "title": "pro:movistar"
   },
   {
-    "url": "https://e1a3-147-161-82-31.ngrok-free.app",
-    "title": "blits-c38"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/netrange/",
+    "title": "pro:netrange"
   },
   {
-    "url": "https://4ac2-147-161-82-31.ngrok-free.app",
-    "title": "blits-asecas"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/panasonic/",
+    "title": "pro:panasonic"
   },
   {
-    "url": "https://lightning-tv.github.io/solid-demo-app/326/#/benchmark",
-    "title": "v326"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/philips/",
+    "title": "pro:philips"
   },
   {
-    "url": "https://lightning-tv.github.io/solid-demo-app/300/#/benchmark",
-    "title": "v300"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/tivo/",
+    "title": "pro:tivo"
   },
   {
-    "url": "https://lightning-tv.github.io/solid-demo-app/316/#/benchmark",
-    "title": "v316"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/tizen2023/",
+    "title": "pro:tizen2023"
   },
   {
-    "url": "https://lightning-tv.github.io/solid-demo-app/330/#/benchmark",
-    "title": "v330"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/webos2023/",
+    "title": "pro:webos2023"
   },
   {
-    "url": "https://lightning-tv.github.io/solid-demo-app/#/benchmark",
-    "title": "vfinal"
-  },
-  {
-    "url": "https://oscarg.staging.atresplayer.com/common/#/",
-    "title": "oscarg"
-  },
-  {
-    "url": "https://raulr.staging.atresplayer.com/common/#/",
-    "title": "raulr"
-  },
-  {
-    "url": "https://036d-147-161-82-31.ngrok-free.app",
-    "title": "demo-solid"
-  },
-  {
-    "url": "",
-    "title": ""
-  },
-  {
-    "url": "",
-    "title": ""
-  },
-  {
-    "url": "",
-    "title": ""
-  },
-  {
-    "url": "",
-    "title": ""
-  },
-  {
-    "url": "",
-    "title": ""
-  },
-  {
-    "url": "",
-    "title": ""
-  },
-  {
-    "url": "",
-    "title": ""
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/xfinity/",
+    "title": "pro:xfinity"
   }
 ]
