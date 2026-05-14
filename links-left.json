@@ -50,5 +50,9 @@
   {
     "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/xfinity/",
     "title": "pro:xfinity"
+  },
+  {
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/titanos/",
+    "title": "pro:titanos"
   }
 ]
