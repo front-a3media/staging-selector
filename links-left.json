@@ -1,58 +1,6 @@
 [
   {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/desktop/",
-    "title": "pro:desktop"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/foxxum/",
-    "title": "pro:foxxum"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/hbbtv/",
-    "title": "pro:hbbtv"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/hisense/",
-    "title": "pro:hisense"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/kepler/",
-    "title": "pro:kepler"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/movistar/",
-    "title": "pro:movistar"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/netrange/",
-    "title": "pro:netrange"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/panasonic/",
-    "title": "pro:panasonic"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/philips/",
-    "title": "pro:philips"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/tivo/",
-    "title": "pro:tivo"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/tizen2023/",
-    "title": "pro:tizen2023"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/webos2023/",
-    "title": "pro:webos2023"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/xfinity/",
-    "title": "pro:xfinity"
-  },
-  {
-    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/RC_PRO/titanos/",
-    "title": "pro:titanos"
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/prueba_staging1/",
+    "title": "Nassim - prueba_staging1"
   }
 ]
