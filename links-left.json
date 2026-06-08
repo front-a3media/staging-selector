@@ -2,5 +2,9 @@
   {
     "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/prueba_staging1/",
     "title": "Nassim - prueba_staging1"
+  },
+  {
+    "url": "https://antonio_mg.staging.atresplayer.com/",
+    "title": "Antonio - prueba_staging1"
   }
 ]
