@@ -6,5 +6,9 @@
   {
     "url": "https://antonio_mg.staging.atresplayer.com/",
     "title": "Antonio - prueba_staging1"
+  },
+  {
+    "url": "https://smarttv.atresplayer.com/_pruebas/DEVOPS/pruebaSubsLg/",
+    "title": "Prueba subs LG < 5"
   }
 ]
